@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShahidButt4321/my-app/static/css/main.dc4d6ff2.css",
+    "main.js": "/ShahidButt4321/my-app/static/js/main.93102773.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ShahidButt4321/my-app/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/ShahidButt4321/my-app/index.html",
+    "main.dc4d6ff2.css.map": "/ShahidButt4321/my-app/static/css/main.dc4d6ff2.css.map",
+    "main.93102773.js.map": "/ShahidButt4321/my-app/static/js/main.93102773.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ShahidButt4321/my-app/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.93102773.js"
+  ]
+}
